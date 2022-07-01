@@ -25,3 +25,6 @@ It has gone [tarnished](https://medium.com/3-lines-story/hang-fire-fe4868364805)
 
 voila la troisieme modification **youpie
 >>>>>>> cdeb70ed0069d1ecb4fdbd11c923995369c098d0
+
+
+Un peu compris/20
