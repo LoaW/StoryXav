@@ -8,3 +8,12 @@ Je n'ai pas vraiment d'idée, mais je me dé~~merde~~.
 Avec des mots un peu bêtes,
 Pour écrire tel un **poète**,
 Mais un poète de ~~merde~~.
+
+======
+
+## Hang Fire.
+An oil lamp burning at his home’s doorway.
+It can’t be seen from him.
+It has gone [tarnished](https://medium.com/3-lines-story/hang-fire-fe4868364805) in the city’s dazzle.
+
+======
